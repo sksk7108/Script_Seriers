@@ -4,7 +4,7 @@
 ## 2 教程
 ### 2.1 环境搭建
 - 安装selenium
-> pip install selenium==4.13 -i https://pypi.tuna.tsinghua.edu.cn/simple
+> pip install selenium==4.1.3 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 - 查看Chrome浏览器的版本号（只需知道以点分隔的前三个版本号即可）
 ![image](https://user-images.githubusercontent.com/105795298/230870842-b3a59239-49d3-445e-a440-08427c73f695.png)
